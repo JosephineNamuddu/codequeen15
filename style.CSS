@@ -1,6 +1,6 @@
-{
+/* {
 
-}
+} */
 
 
 h1{
@@ -31,14 +31,40 @@ border:5px red solid;
   border-color: orange;
 padding: 30px;
 }
-
-.container{
-    background-color: aqua;
-
-}
+/* My flexbox properties */
+/* .container{
+       background-color: aqua;
+} */
 .childContainer{
     background-color: blueviolet;
     display:flex;
-    flex-direction: row;
-    justify-content: space-between;
+    /* flexbox direction; row-gap: ; */
+    justify-content:space-between;
 }
+/* blue container */
+.blue-container{
+    border:30x blue solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: centre;
+    align-items:center;
+}
+.flex-items{
+    border:2px orangered solid;
+    margin:5px;
+    height:80px;
+    width: 50px;
+    
+}
+.mine{
+    color: blue;
+}
+.image{
+    width:30px
+}
+.last {
+width: 30px; 
+}
+
+    /* border-radius;5px;
+} */
