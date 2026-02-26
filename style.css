@@ -1,7 +1,83 @@
-*{
-    background-color: aquamarine;
-}
+/* *{
+    /* background-color: lightseagreen; */
+/* } */ 
 
 h3{ 
 color:navy;
+}
+img{
+    width: 150px;
+}
+
+.family{
+    color: rgb(230, 134, 230);
+}
+.children{
+color: brown;
+}
+.God{
+    color: green;
+}
+
+.learning{
+    color: chocolate;
+}
+.peace{
+    color:rgb(255, 68, 0);
+}
+.Harmony{
+    color: black;
+}
+.dislikes{
+    background-color: rgb(218, 112, 112);
+}
+.vibes{
+    background-color: brown;
+}
+.content{
+    font-family: Arial, Helvetica, sans-serif;
+    background: -moz-linear-gradient(to right,);
+    display: flex;
+    justify-content: center;
+    height: 15cm;
+    margin: 05;
+}
+.card{
+    background:lightseagreen;
+    width: 300px;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow:0 10px 25px rgba(red, green, blue, alpha)
+}
+.profile-img{
+   width: 120px; 
+   height: 120px;
+   border-radius: 50%;
+   object-fit: cover;
+   margin-bottom: 15px;
+}
+.profile-name{
+    margin: 10px 0 5px;
+    font-style: italic;
+}
+.tittle{
+    font-style: unset;
+    font-size: larger;
+}
+.details{
+    font-size: medium;
+    color: darkgreen;
+}
+.social-links{
+    display: inline-block;
+    margin: 10px 8px;
+    text-decoration:none ;
+    color: whitesmoke;
+    background: rgb(244, 108, 108);
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-size: 15px;
+    transition: 0.3s;
+     
 }
