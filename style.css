@@ -34,6 +34,18 @@ color: brown;
 .vibes{
     background-color: brown;
 }
+.c-table{
+    color: maroon;
+    background-color: skyblue;
+}
+/* .allover:{
+    background-color: lightcoral;
+    color: darkred;
+} */
+/* 
+PORTFOLIO 1 */
+
+
 .content{
     font-family: Arial, Helvetica, sans-serif;
     background: -moz-linear-gradient(to right,);
@@ -43,24 +55,25 @@ color: brown;
     margin: 05;
 }
 .card{
-    background:slategray;
+    background:seagreen;
     width: 300px;
     padding: 30px;
-    border-radius: 15px;
+    border-radius: 50px;
     text-align: center;
     box-shadow:0 10px 25px rgba(red, green, blue, alpha)
 }
 .profile-img{
+    background-color: palevioletred;
    width: 120px; 
    height: 120px;
-   border-radius: 25%;
+   border-radius: 50%;
    object-fit: cover;
    margin-bottom: 15px;
 }
 .profile-name{
     margin: 10px 0 5px;
     font-style: italic;
-    color: crimson;
+    color:darkblue;
 }
 .tittle{
     font-style: unset;
@@ -103,6 +116,13 @@ font-size: medium;
 .btn{
     background-color:crimson;
     font-size: small;
-
-
+}
+.h3{
+    color:maroon ;
+    font-style:italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.image-fluid{
+  height: 500px; 
+  width: 500px; 
 }
