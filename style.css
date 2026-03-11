@@ -170,14 +170,41 @@ border-image:stretch;
 
 }
 .products{
+background-color:lightsalmon;
+color:maroon;
 font-style: italic;
-background-color: blueviolet;
+width:200vh ;
+padding: ;
+}
+.girl{
+   background:hotpink;
+    width: 300px;
+    padding: 30px;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow:0 10px 25px rgba(red, green, blue, alpha)
+}
+.boy{
+    background:blue;
+    width: 300px;
+    padding: 30px;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow:0 10px 25px rgba(red, green, blue, alpha)
+}
+.pyjamas{
+ background:purple;
+    width: 300px;
+    padding: 30px;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow:0 10px 25px rgba(red, green, blue, alpha)
+
+
+
 
 
 }
-
-
-
 
 
 
