@@ -157,9 +157,20 @@ z-index:2;
 }
 .hero{
     font-style:italic;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: maroon;
+
 }
+.words{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: maroon;
+font-weight: 200;
+
+
+}
+
+
+
 .about{
 color:dark blue;
 background-color: palevioletred;
